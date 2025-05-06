@@ -1,0 +1,65 @@
+{
+    "fruit": [
+      {
+        "name": "Apple",
+        "price": 1.2,
+        "source": "USA",
+        "farm": "Green Valley Farm"
+      },
+      {
+        "name": "Banana",
+        "price": 0.5,
+        "source": "Ecuador",
+        "farm": "Tropical Plantations"
+      },
+      {
+        "name": "Orange",
+        "price": 0.8,
+        "source": "Spain",
+        "farm": "Sunrise Orchards"
+      },
+      {
+        "name": "Strawberry",
+        "price": 2.5,
+        "source": "USA",
+        "farm": "Berry Patch Farms"
+      },
+      {
+        "name": "Mango",
+        "price": 1.7,
+        "source": "India",
+        "farm": "Golden Harvest"
+      },
+      {
+        "name": "Pineapple",
+        "price": 2.0,
+        "source": "Costa Rica",
+        "farm": "Tico Farms"
+      },
+      {
+        "name": "Blueberry",
+        "price": 3.0,
+        "source": "Canada",
+        "farm": "Maple Grove"
+      },
+      {
+        "name": "Peach",
+        "price": 1.5,
+        "source": "Italy",
+        "farm": "Mediterranean Orchards"
+      },
+      {
+        "name": "Kiwi",
+        "price": 1.8,
+        "source": "New Zealand",
+        "farm": "Silver Fern Farms"
+      },
+      {
+        "name": "Watermelon",
+        "price": 4.0,
+        "source": "Mexico",
+        "farm": "Sunny Fields"
+      }
+    ]
+  }
+  
